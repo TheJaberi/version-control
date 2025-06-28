@@ -1,4 +1,4 @@
-# Getting Started with Go in reboot
+# Getting Started with Go
 
 Welcome to Go programming! This guide will help you understand the basics before starting the tasks.
 
